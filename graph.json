@@ -57892,5 +57892,101 @@
     "name": "no wallet, libbitcoinkernel",
     "duration": 615,
     "created": 1736632892252
+  },
+  {
+    "id": "6723189570535424",
+    "name": "tidy",
+    "duration": 1485,
+    "created": 1736688794466
+  },
+  {
+    "id": "5650066221826048",
+    "name": "Win64-cross",
+    "duration": 135,
+    "created": 1736688794466
+  },
+  {
+    "id": "4805641291694080",
+    "name": "TSan, depends, gui",
+    "duration": 1434,
+    "created": 1736688794466
+  },
+  {
+    "id": "5931541198536704",
+    "name": "MSan, depends",
+    "duration": 1079,
+    "created": 1736688794466
+  },
+  {
+    "id": "5368591245115392",
+    "name": "fuzzer,address,undefined,integer, no depends",
+    "duration": 2655,
+    "created": 1736688794466
+  },
+  {
+    "id": "4664903803338752",
+    "name": "no wallet, libbitcoinkernel",
+    "duration": 771,
+    "created": 1736688794467
+  },
+  {
+    "id": "6269280783695872",
+    "name": "32-bit CentOS, dash, gui",
+    "duration": 506,
+    "created": 1736703113826
+  },
+  {
+    "id": "4908794863419392",
+    "name": "ARM, unit tests, no functional tests",
+    "duration": 217,
+    "created": 1736703971057
+  },
+  {
+    "id": "6597644723683328",
+    "name": "previous releases, depends DEBUG",
+    "duration": 890,
+    "created": 1736703971058
+  },
+  {
+    "id": "5893957281906688",
+    "name": "MSan, depends",
+    "duration": 3455,
+    "created": 1736703971058
+  },
+  {
+    "id": "6456907235328000",
+    "name": "multiprocess, i686, DEBUG",
+    "duration": 1258,
+    "created": 1736703971058
+  },
+  {
+    "id": "5049532351774720",
+    "name": "no wallet, libbitcoinkernel",
+    "duration": 300,
+    "created": 1736703971058
+  },
+  {
+    "id": "6175432258617344",
+    "name": "macOS-cross, gui, no tests",
+    "duration": 84,
+    "created": 1736703971058
+  },
+  {
+    "id": "4699317497233408",
+    "name": "ARM, unit tests, no functional tests",
+    "duration": 416,
+    "created": 1736712488111
+  },
+  {
+    "id": "5825217404076032",
+    "name": "Win64-cross",
+    "duration": 360,
+    "created": 1736712488111
+  },
+  {
+    "id": "6106692380786688",
+    "name": "MSan, depends",
+    "duration": 3103,
+    "created": 1736712488111
   }
 ]
