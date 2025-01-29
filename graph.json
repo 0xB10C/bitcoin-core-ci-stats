@@ -84610,5 +84610,1175 @@
     "name": "previous releases, depends DEBUG",
     "duration": 746,
     "created": 1738023205258
+  },
+  {
+    "id": "6662777768509440",
+    "name": "previous releases, depends DEBUG",
+    "duration": 873,
+    "created": 1738029225581
+  },
+  {
+    "id": "6092255301206016",
+    "name": "previous releases, depends DEBUG",
+    "duration": 987,
+    "created": 1738030727591
+  },
+  {
+    "id": "5335947933384704",
+    "name": "previous releases, depends DEBUG",
+    "duration": 712,
+    "created": 1738032240405
+  },
+  {
+    "id": "4726241758019584",
+    "name": "tidy",
+    "duration": 1486,
+    "created": 1738033211417
+  },
+  {
+    "id": "5852141664862208",
+    "name": "ARM, unit tests, no functional tests",
+    "duration": 225,
+    "created": 1738033211417
+  },
+  {
+    "id": "5289191711440896",
+    "name": "Win64-cross",
+    "duration": 161,
+    "created": 1738033211417
+  },
+  {
+    "id": "6415091618283520",
+    "name": "CentOS, depends, gui",
+    "duration": 454,
+    "created": 1738033211417
+  },
+  {
+    "id": "5007716734730240",
+    "name": "previous releases, depends DEBUG",
+    "duration": 832,
+    "created": 1738033211417
+  },
+  {
+    "id": "6133616641572864",
+    "name": "TSan, depends, gui",
+    "duration": 1429,
+    "created": 1738033211417
+  },
+  {
+    "id": "5570666688151552",
+    "name": "MSan, depends",
+    "duration": 1120,
+    "created": 1738033211417
+  },
+  {
+    "id": "6696566594994176",
+    "name": "fuzzer,address,undefined,integer, no depends",
+    "duration": 2544,
+    "created": 1738033211417
+  },
+  {
+    "id": "4550319897575424",
+    "name": "multiprocess, i686, DEBUG",
+    "duration": 1022,
+    "created": 1738033211417
+  },
+  {
+    "id": "5676219804418048",
+    "name": "no wallet, libbitcoinkernel",
+    "duration": 336,
+    "created": 1738033211417
+  },
+  {
+    "id": "5113269850996736",
+    "name": "macOS-cross, gui, no tests",
+    "duration": 91,
+    "created": 1738033211417
+  },
+  {
+    "id": "6397616067444736",
+    "name": "previous releases, depends DEBUG",
+    "duration": 878,
+    "created": 1738033742847
+  },
+  {
+    "id": "6361759868518400",
+    "name": "previous releases, depends DEBUG",
+    "duration": 865,
+    "created": 1738036753013
+  },
+  {
+    "id": "4831955751010304",
+    "name": "previous releases, depends DEBUG",
+    "duration": 839,
+    "created": 1738038255179
+  },
+  {
+    "id": "5358361018892288",
+    "name": "previous releases, depends DEBUG",
+    "duration": 812,
+    "created": 1738044263691
+  },
+  {
+    "id": "4525716647182336",
+    "name": "tidy",
+    "duration": 1482,
+    "created": 1738046071353
+  },
+  {
+    "id": "5651616554024960",
+    "name": "ARM, unit tests, no functional tests",
+    "duration": 234,
+    "created": 1738046071354
+  },
+  {
+    "id": "5088666600603648",
+    "name": "Win64-cross",
+    "duration": 173,
+    "created": 1738046071354
+  },
+  {
+    "id": "6214566507446272",
+    "name": "CentOS, depends, gui",
+    "duration": 842,
+    "created": 1738046071354
+  },
+  {
+    "id": "4807191623892992",
+    "name": "previous releases, depends DEBUG",
+    "duration": 726,
+    "created": 1738046071354
+  },
+  {
+    "id": "5933091530735616",
+    "name": "TSan, depends, gui",
+    "duration": 1427,
+    "created": 1738046071354
+  },
+  {
+    "id": "5370141577314304",
+    "name": "MSan, depends",
+    "duration": 1095,
+    "created": 1738046071354
+  },
+  {
+    "id": "6496041484156928",
+    "name": "fuzzer,address,undefined,integer, no depends",
+    "duration": 2594,
+    "created": 1738046071354
+  },
+  {
+    "id": "4666454135537664",
+    "name": "multiprocess, i686, DEBUG",
+    "duration": 1035,
+    "created": 1738046071354
+  },
+  {
+    "id": "5792354042380288",
+    "name": "no wallet, libbitcoinkernel",
+    "duration": 310,
+    "created": 1738046071354
+  },
+  {
+    "id": "5229404088958976",
+    "name": "macOS-cross, gui, no tests",
+    "duration": 127,
+    "created": 1738046071354
+  },
+  {
+    "id": "5849302372712448",
+    "name": "previous releases, depends DEBUG",
+    "duration": 876,
+    "created": 1738048776577
+  },
+  {
+    "id": "6598022278152192",
+    "name": "previous releases, depends DEBUG",
+    "duration": 838,
+    "created": 1738051786434
+  },
+  {
+    "id": "5011622739050496",
+    "name": "tidy",
+    "duration": 1716,
+    "created": 1738053797812
+  },
+  {
+    "id": "6137522645893120",
+    "name": "ARM, unit tests, no functional tests",
+    "duration": 876,
+    "created": 1738053797813
+  },
+  {
+    "id": "5574572692471808",
+    "name": "Win64-cross",
+    "duration": 1282,
+    "created": 1738053797813
+  },
+  {
+    "id": "6700472599314432",
+    "name": "CentOS, depends, gui",
+    "duration": 1479,
+    "created": 1738053797813
+  },
+  {
+    "id": "4554225901895680",
+    "name": "previous releases, depends DEBUG",
+    "duration": 1935,
+    "created": 1738053797813
+  },
+  {
+    "id": "5680125808738304",
+    "name": "TSan, depends, gui",
+    "duration": 2133,
+    "created": 1738053797813
+  },
+  {
+    "id": "5117175855316992",
+    "name": "MSan, depends",
+    "duration": 4339,
+    "created": 1738053797813
+  },
+  {
+    "id": "6243075762159616",
+    "name": "fuzzer,address,undefined,integer, no depends",
+    "duration": 2716,
+    "created": 1738053797813
+  },
+  {
+    "id": "4835700878606336",
+    "name": "no multiprocess, i686, DEBUG",
+    "duration": 991,
+    "created": 1738053797813
+  },
+  {
+    "id": "5961600785448960",
+    "name": "no wallet, libbitcoinkernel",
+    "duration": 930,
+    "created": 1738053797813
+  },
+  {
+    "id": "5398650832027648",
+    "name": "macOS-cross, gui, no tests",
+    "duration": 564,
+    "created": 1738053797813
+  },
+  {
+    "id": "6714771820511232",
+    "name": "tidy",
+    "duration": 2997,
+    "created": 1738059089506
+  },
+  {
+    "id": "4568525123092480",
+    "name": "ARM, unit tests, no functional tests",
+    "duration": 230,
+    "created": 1738059089506
+  },
+  {
+    "id": "5694425029935104",
+    "name": "Win64-cross",
+    "duration": 186,
+    "created": 1738059089506
+  },
+  {
+    "id": "5131475076513792",
+    "name": "CentOS, depends, gui",
+    "duration": 436,
+    "created": 1738059089506
+  },
+  {
+    "id": "6257374983356416",
+    "name": "previous releases, depends DEBUG",
+    "duration": 978,
+    "created": 1738059089506
+  },
+  {
+    "id": "4850000099803136",
+    "name": "TSan, depends, gui",
+    "duration": 2446,
+    "created": 1738059089507
+  },
+  {
+    "id": "5975900006645760",
+    "name": "MSan, depends",
+    "duration": 1196,
+    "created": 1738059089507
+  },
+  {
+    "id": "5412950053224448",
+    "name": "fuzzer,address,undefined,integer, no depends",
+    "duration": 4350,
+    "created": 1738059089507
+  },
+  {
+    "id": "6538849960067072",
+    "name": "multiprocess, i686, DEBUG",
+    "duration": 1747,
+    "created": 1738059089507
+  },
+  {
+    "id": "4709262611447808",
+    "name": "no wallet, libbitcoinkernel",
+    "duration": 307,
+    "created": 1738059089507
+  },
+  {
+    "id": "5835162518290432",
+    "name": "macOS-cross, gui, no tests",
+    "duration": 64,
+    "created": 1738059089507
+  },
+  {
+    "id": "6055009562918912",
+    "name": "tidy",
+    "duration": 3050,
+    "created": 1738059171714
+  },
+  {
+    "id": "5492059609497600",
+    "name": "ARM, unit tests, no functional tests",
+    "duration": 849,
+    "created": 1738059171714
+  },
+  {
+    "id": "6617959516340224",
+    "name": "Win64-cross",
+    "duration": 723,
+    "created": 1738059171714
+  },
+  {
+    "id": "4577265935187968",
+    "name": "CentOS, depends, gui",
+    "duration": 1926,
+    "created": 1738059171714
+  },
+  {
+    "id": "5703165842030592",
+    "name": "previous releases, depends DEBUG",
+    "duration": 851,
+    "created": 1738059171714
+  },
+  {
+    "id": "5140215888609280",
+    "name": "TSan, depends, gui",
+    "duration": 2505,
+    "created": 1738059171715
+  },
+  {
+    "id": "6266115795451904",
+    "name": "MSan, depends",
+    "duration": 1303,
+    "created": 1738059171715
+  },
+  {
+    "id": "4858740911898624",
+    "name": "fuzzer,address,undefined,integer, no depends",
+    "duration": 4314,
+    "created": 1738059171715
+  },
+  {
+    "id": "5984640818741248",
+    "name": "multiprocess, i686, DEBUG",
+    "duration": 3123,
+    "created": 1738059171715
+  },
+  {
+    "id": "5421690865319936",
+    "name": "no wallet, libbitcoinkernel",
+    "duration": 328,
+    "created": 1738059171715
+  },
+  {
+    "id": "6547590772162560",
+    "name": "macOS-cross, gui, no tests",
+    "duration": 59,
+    "created": 1738059171715
+  },
+  {
+    "id": "5257023077482496",
+    "name": "tidy",
+    "duration": 2844,
+    "created": 1738059201914
+  },
+  {
+    "id": "6382922984325120",
+    "name": "ARM, unit tests, no functional tests",
+    "duration": 231,
+    "created": 1738059201914
+  },
+  {
+    "id": "4975548100771840",
+    "name": "Win64-cross",
+    "duration": 145,
+    "created": 1738059201914
+  },
+  {
+    "id": "6101448007614464",
+    "name": "CentOS, depends, gui",
+    "duration": 1696,
+    "created": 1738059201914
+  },
+  {
+    "id": "5538498054193152",
+    "name": "previous releases, depends DEBUG",
+    "duration": 877,
+    "created": 1738059201914
+  },
+  {
+    "id": "6664397961035776",
+    "name": "TSan, depends, gui",
+    "duration": 2217,
+    "created": 1738059201914
+  },
+  {
+    "id": "4623704379883520",
+    "name": "MSan, depends",
+    "duration": 1246,
+    "created": 1738059201914
+  },
+  {
+    "id": "5749604286726144",
+    "name": "fuzzer,address,undefined,integer, no depends",
+    "duration": 4297,
+    "created": 1738059201914
+  },
+  {
+    "id": "5186654333304832",
+    "name": "multiprocess, i686, DEBUG",
+    "duration": 1343,
+    "created": 1738059201914
+  },
+  {
+    "id": "6312554240147456",
+    "name": "no wallet, libbitcoinkernel",
+    "duration": 335,
+    "created": 1738059201915
+  },
+  {
+    "id": "4905179356594176",
+    "name": "macOS-cross, gui, no tests",
+    "duration": 711,
+    "created": 1738059201915
+  },
+  {
+    "id": "5003978435461120",
+    "name": "previous releases, depends DEBUG",
+    "duration": 1255,
+    "created": 1738059329677
+  },
+  {
+    "id": "5769930974429184",
+    "name": "previous releases, depends DEBUG",
+    "duration": 985,
+    "created": 1738060835573
+  },
+  {
+    "id": "5198502755565568",
+    "name": "previous releases, depends DEBUG",
+    "duration": 1223,
+    "created": 1738068370606
+  },
+  {
+    "id": "6681243762294784",
+    "name": "tidy",
+    "duration": 1431,
+    "created": 1738070271414
+  },
+  {
+    "id": "4640550181142528",
+    "name": "ARM, unit tests, no functional tests",
+    "duration": 225,
+    "created": 1738070271414
+  },
+  {
+    "id": "5766450087985152",
+    "name": "Win64-cross",
+    "duration": 159,
+    "created": 1738070271414
+  },
+  {
+    "id": "5203500134563840",
+    "name": "CentOS, depends, gui",
+    "duration": 1744,
+    "created": 1738070271414
+  },
+  {
+    "id": "6329400041406464",
+    "name": "previous releases, depends DEBUG",
+    "duration": 797,
+    "created": 1738070271414
+  },
+  {
+    "id": "4922025157853184",
+    "name": "TSan, depends, gui",
+    "duration": 2055,
+    "created": 1738070271414
+  },
+  {
+    "id": "6047925064695808",
+    "name": "MSan, depends",
+    "duration": 1311,
+    "created": 1738070271414
+  },
+  {
+    "id": "5484975111274496",
+    "name": "fuzzer,address,undefined,integer, no depends",
+    "duration": 2717,
+    "created": 1738070271414
+  },
+  {
+    "id": "6610875018117120",
+    "name": "multiprocess, i686, DEBUG",
+    "duration": 1022,
+    "created": 1738070271415
+  },
+  {
+    "id": "4781287669497856",
+    "name": "no wallet, libbitcoinkernel",
+    "duration": 304,
+    "created": 1738070271415
+  },
+  {
+    "id": "5907187576340480",
+    "name": "macOS-cross, gui, no tests",
+    "duration": 64,
+    "created": 1738070271415
+  },
+  {
+    "id": "5978619140374528",
+    "name": "ARM, unit tests, no functional tests",
+    "duration": 224,
+    "created": 1738073085734
+  },
+  {
+    "id": "6119356628729856",
+    "name": "no wallet, libbitcoinkernel",
+    "duration": 300,
+    "created": 1738073085735
+  },
+  {
+    "id": "5556406675308544",
+    "name": "macOS-cross, gui, no tests",
+    "duration": 60,
+    "created": 1738073085735
+  },
+  {
+    "id": "5489439008358400",
+    "name": "previous releases, depends DEBUG",
+    "duration": 818,
+    "created": 1738074387632
+  },
+  {
+    "id": "6106266977697792",
+    "name": "tidy",
+    "duration": 1433,
+    "created": 1738077260442
+  },
+  {
+    "id": "5543317024276480",
+    "name": "ARM, unit tests, no functional tests",
+    "duration": 224,
+    "created": 1738077260442
+  },
+  {
+    "id": "6669216931119104",
+    "name": "Win64-cross",
+    "duration": 862,
+    "created": 1738077260442
+  },
+  {
+    "id": "4628523349966848",
+    "name": "CentOS, depends, gui",
+    "duration": 1316,
+    "created": 1738077260442
+  },
+  {
+    "id": "5754423256809472",
+    "name": "previous releases, depends DEBUG",
+    "duration": 841,
+    "created": 1738077260442
+  },
+  {
+    "id": "5191473303388160",
+    "name": "TSan, depends, gui",
+    "duration": 2108,
+    "created": 1738077260442
+  },
+  {
+    "id": "6317373210230784",
+    "name": "MSan, depends",
+    "duration": 1000,
+    "created": 1738077260442
+  },
+  {
+    "id": "4909998326677504",
+    "name": "fuzzer,address,undefined,integer, no depends",
+    "duration": 2687,
+    "created": 1738077260443
+  },
+  {
+    "id": "6035898233520128",
+    "name": "multiprocess, i686, DEBUG",
+    "duration": 1051,
+    "created": 1738077260443
+  },
+  {
+    "id": "5472948280098816",
+    "name": "no wallet, libbitcoinkernel",
+    "duration": 329,
+    "created": 1738077260443
+  },
+  {
+    "id": "6598848186941440",
+    "name": "macOS-cross, gui, no tests",
+    "duration": 64,
+    "created": 1738077260443
+  },
+  {
+    "id": "4704148983119872",
+    "name": "previous releases, depends DEBUG",
+    "duration": 819,
+    "created": 1738078899458
+  },
+  {
+    "id": "6638564756160512",
+    "name": "tidy",
+    "duration": 1576,
+    "created": 1738082845002
+  },
+  {
+    "id": "4597871175008256",
+    "name": "ARM, unit tests, no functional tests",
+    "duration": 438,
+    "created": 1738082845002
+  },
+  {
+    "id": "5723771081850880",
+    "name": "Win64-cross",
+    "duration": 494,
+    "created": 1738082845003
+  },
+  {
+    "id": "5160821128429568",
+    "name": "CentOS, depends, gui",
+    "duration": 958,
+    "created": 1738082845003
+  },
+  {
+    "id": "6286721035272192",
+    "name": "previous releases, depends DEBUG",
+    "duration": 904,
+    "created": 1738082845003
+  },
+  {
+    "id": "4879346151718912",
+    "name": "TSan, depends, gui",
+    "duration": 1606,
+    "created": 1738082845003
+  },
+  {
+    "id": "6005246058561536",
+    "name": "MSan, depends",
+    "duration": 1355,
+    "created": 1738082845003
+  },
+  {
+    "id": "6568196011982848",
+    "name": "multiprocess, i686, DEBUG",
+    "duration": 1196,
+    "created": 1738082845003
+  },
+  {
+    "id": "4738608663363584",
+    "name": "no wallet, libbitcoinkernel",
+    "duration": 579,
+    "created": 1738082845003
+  },
+  {
+    "id": "5864508570206208",
+    "name": "macOS-cross, gui, no tests",
+    "duration": 194,
+    "created": 1738082845003
+  },
+  {
+    "id": "6110396521644032",
+    "name": "tidy",
+    "duration": 2189,
+    "created": 1738084464505
+  },
+  {
+    "id": "5547446568222720",
+    "name": "ARM, unit tests, no functional tests",
+    "duration": 461,
+    "created": 1738084464505
+  },
+  {
+    "id": "6673346475065344",
+    "name": "Win64-cross",
+    "duration": 1101,
+    "created": 1738084464505
+  },
+  {
+    "id": "4632652893913088",
+    "name": "CentOS, depends, gui",
+    "duration": 1406,
+    "created": 1738084464505
+  },
+  {
+    "id": "5758552800755712",
+    "name": "previous releases, depends DEBUG",
+    "duration": 1074,
+    "created": 1738084464505
+  },
+  {
+    "id": "5195602847334400",
+    "name": "TSan, depends, gui",
+    "duration": 2888,
+    "created": 1738084464505
+  },
+  {
+    "id": "6321502754177024",
+    "name": "MSan, depends",
+    "duration": 1573,
+    "created": 1738084464505
+  },
+  {
+    "id": "4914127870623744",
+    "name": "fuzzer,address,undefined,integer, no depends",
+    "duration": 3920,
+    "created": 1738084464505
+  },
+  {
+    "id": "6040027777466368",
+    "name": "multiprocess, i686, DEBUG",
+    "duration": 1572,
+    "created": 1738084464506
+  },
+  {
+    "id": "5477077824045056",
+    "name": "no wallet, libbitcoinkernel",
+    "duration": 421,
+    "created": 1738084464506
+  },
+  {
+    "id": "6602977730887680",
+    "name": "macOS-cross, gui, no tests",
+    "duration": 280,
+    "created": 1738084464506
+  },
+  {
+    "id": "5654226098978816",
+    "name": "tidy",
+    "duration": 2281,
+    "created": 1738084740738
+  },
+  {
+    "id": "5091276145557504",
+    "name": "ARM, unit tests, no functional tests",
+    "duration": 387,
+    "created": 1738084740739
+  },
+  {
+    "id": "6217176052400128",
+    "name": "Win64-cross",
+    "duration": 471,
+    "created": 1738084740739
+  },
+  {
+    "id": "4809801168846848",
+    "name": "CentOS, depends, gui",
+    "duration": 920,
+    "created": 1738084740739
+  },
+  {
+    "id": "5935701075689472",
+    "name": "previous releases, depends DEBUG",
+    "duration": 1054,
+    "created": 1738084740739
+  },
+  {
+    "id": "5372751122268160",
+    "name": "TSan, depends, gui",
+    "duration": 2131,
+    "created": 1738084740739
+  },
+  {
+    "id": "6498651029110784",
+    "name": "MSan, depends",
+    "duration": 1408,
+    "created": 1738084740739
+  },
+  {
+    "id": "4669063680491520",
+    "name": "fuzzer,address,undefined,integer, no depends",
+    "duration": 3880,
+    "created": 1738084740739
+  },
+  {
+    "id": "5794963587334144",
+    "name": "multiprocess, i686, DEBUG",
+    "duration": 1684,
+    "created": 1738084740739
+  },
+  {
+    "id": "5232013633912832",
+    "name": "no wallet, libbitcoinkernel",
+    "duration": 1092,
+    "created": 1738084740740
+  },
+  {
+    "id": "6357913540755456",
+    "name": "macOS-cross, gui, no tests",
+    "duration": 231,
+    "created": 1738084740740
+  },
+  {
+    "id": "5766554173833216",
+    "name": "previous releases, depends DEBUG",
+    "duration": 783,
+    "created": 1738084920273
+  },
+  {
+    "id": "6750373139972096",
+    "name": "tidy",
+    "duration": 2075,
+    "created": 1738087761930
+  },
+  {
+    "id": "4511767465820160",
+    "name": "ARM, unit tests, no functional tests",
+    "duration": 230,
+    "created": 1738087761930
+  },
+  {
+    "id": "5637667372662784",
+    "name": "Win64-cross",
+    "duration": 308,
+    "created": 1738087761930
+  },
+  {
+    "id": "5074717419241472",
+    "name": "CentOS, depends, gui",
+    "duration": 584,
+    "created": 1738087761930
+  },
+  {
+    "id": "6200617326084096",
+    "name": "previous releases, depends DEBUG",
+    "duration": 786,
+    "created": 1738087761930
+  },
+  {
+    "id": "4793242442530816",
+    "name": "TSan, depends, gui",
+    "duration": 1934,
+    "created": 1738087761930
+  },
+  {
+    "id": "5919142349373440",
+    "name": "MSan, depends",
+    "duration": 1180,
+    "created": 1738087761930
+  },
+  {
+    "id": "5356192395952128",
+    "name": "fuzzer,address,undefined,integer, no depends",
+    "duration": 3198,
+    "created": 1738087761931
+  },
+  {
+    "id": "6482092302794752",
+    "name": "multiprocess, i686, DEBUG",
+    "duration": 1478,
+    "created": 1738087761931
+  },
+  {
+    "id": "4652504954175488",
+    "name": "no wallet, libbitcoinkernel",
+    "duration": 416,
+    "created": 1738087761931
+  },
+  {
+    "id": "5778404861018112",
+    "name": "macOS-cross, gui, no tests",
+    "duration": 192,
+    "created": 1738087761931
+  },
+  {
+    "id": "4874733944045568",
+    "name": "previous releases, depends DEBUG",
+    "duration": 726,
+    "created": 1738089443425
+  },
+  {
+    "id": "5119760368664576",
+    "name": "previous releases, depends DEBUG",
+    "duration": 832,
+    "created": 1738092448647
+  },
+  {
+    "id": "4806745635160064",
+    "name": "tidy",
+    "duration": 1487,
+    "created": 1738095730712
+  },
+  {
+    "id": "5932645542002688",
+    "name": "ARM, unit tests, no functional tests",
+    "duration": 256,
+    "created": 1738095730712
+  },
+  {
+    "id": "5369695588581376",
+    "name": "Win64-cross",
+    "duration": 192,
+    "created": 1738095730712
+  },
+  {
+    "id": "6495595495424000",
+    "name": "CentOS, depends, gui",
+    "duration": 607,
+    "created": 1738095730712
+  },
+  {
+    "id": "4666008146804736",
+    "name": "previous releases, depends DEBUG",
+    "duration": 743,
+    "created": 1738095730712
+  },
+  {
+    "id": "5791908053647360",
+    "name": "TSan, depends, gui",
+    "duration": 1435,
+    "created": 1738095730712
+  },
+  {
+    "id": "5228958100226048",
+    "name": "MSan, depends",
+    "duration": 1005,
+    "created": 1738095730712
+  },
+  {
+    "id": "6354858007068672",
+    "name": "fuzzer,address,undefined,integer, no depends",
+    "duration": 2589,
+    "created": 1738095730712
+  },
+  {
+    "id": "4947483123515392",
+    "name": "multiprocess, i686, DEBUG",
+    "duration": 1030,
+    "created": 1738095730712
+  },
+  {
+    "id": "6073383030358016",
+    "name": "no wallet, libbitcoinkernel",
+    "duration": 331,
+    "created": 1738095730712
+  },
+  {
+    "id": "5510433076936704",
+    "name": "macOS-cross, gui, no tests",
+    "duration": 95,
+    "created": 1738095730712
+  },
+  {
+    "id": "6509627422015488",
+    "name": "ARM, unit tests, no functional tests",
+    "duration": 223,
+    "created": 1738103151212
+  },
+  {
+    "id": "4680040073396224",
+    "name": "Win64-cross",
+    "duration": 157,
+    "created": 1738103151212
+  },
+  {
+    "id": "4609671329218560",
+    "name": "macOS-cross, gui, no tests",
+    "duration": 61,
+    "created": 1738103151212
+  },
+  {
+    "id": "5584574144577536",
+    "name": "tidy",
+    "duration": 2002,
+    "created": 1738103484764
+  },
+  {
+    "id": "6710474051420160",
+    "name": "ARM, unit tests, no functional tests",
+    "duration": 232,
+    "created": 1738103484764
+  },
+  {
+    "id": "4564227354001408",
+    "name": "Win64-cross",
+    "duration": 153,
+    "created": 1738103484764
+  },
+  {
+    "id": "5690127260844032",
+    "name": "CentOS, depends, gui",
+    "duration": 589,
+    "created": 1738103484764
+  },
+  {
+    "id": "5127177307422720",
+    "name": "previous releases, depends DEBUG",
+    "duration": 758,
+    "created": 1738103484764
+  },
+  {
+    "id": "6253077214265344",
+    "name": "TSan, depends, gui",
+    "duration": 1877,
+    "created": 1738103484765
+  },
+  {
+    "id": "4845702330712064",
+    "name": "MSan, depends",
+    "duration": 1075,
+    "created": 1738103484765
+  },
+  {
+    "id": "5971602237554688",
+    "name": "fuzzer,address,undefined,integer, no depends",
+    "duration": 3805,
+    "created": 1738103484765
+  },
+  {
+    "id": "5408652284133376",
+    "name": "multiprocess, i686, DEBUG",
+    "duration": 1406,
+    "created": 1738103484765
+  },
+  {
+    "id": "6534552190976000",
+    "name": "no wallet, libbitcoinkernel",
+    "duration": 314,
+    "created": 1738103484765
+  },
+  {
+    "id": "4704964842356736",
+    "name": "macOS-cross, gui, no tests",
+    "duration": 77,
+    "created": 1738103484765
+  },
+  {
+    "id": "5439366182469632",
+    "name": "ARM, unit tests, no functional tests",
+    "duration": 224,
+    "created": 1738104226953
+  },
+  {
+    "id": "6565266089312256",
+    "name": "Win64-cross",
+    "duration": 144,
+    "created": 1738104226953
+  },
+  {
+    "id": "4735678740692992",
+    "name": "CentOS, depends, gui",
+    "duration": 1313,
+    "created": 1738104226953
+  },
+  {
+    "id": "5861578647535616",
+    "name": "previous releases, depends DEBUG",
+    "duration": 858,
+    "created": 1738104226953
+  },
+  {
+    "id": "6424528600956928",
+    "name": "MSan, depends",
+    "duration": 1094,
+    "created": 1738104226953
+  },
+  {
+    "id": "6143053624246272",
+    "name": "multiprocess, i686, DEBUG",
+    "duration": 1455,
+    "created": 1738104226954
+  },
+  {
+    "id": "5580103670824960",
+    "name": "no wallet, libbitcoinkernel",
+    "duration": 307,
+    "created": 1738104226954
+  },
+  {
+    "id": "6706003577667584",
+    "name": "macOS-cross, gui, no tests",
+    "duration": 66,
+    "created": 1738104226954
+  },
+  {
+    "id": "6636203866324992",
+    "name": "tidy",
+    "duration": 1931,
+    "created": 1738105924305
+  },
+  {
+    "id": "4595510285172736",
+    "name": "ARM, unit tests, no functional tests",
+    "duration": 222,
+    "created": 1738105924305
+  },
+  {
+    "id": "5721410192015360",
+    "name": "Win64-cross",
+    "duration": 162,
+    "created": 1738105924305
+  },
+  {
+    "id": "5158460238594048",
+    "name": "CentOS, depends, gui",
+    "duration": 560,
+    "created": 1738105924305
+  },
+  {
+    "id": "6284360145436672",
+    "name": "previous releases, depends DEBUG",
+    "duration": 860,
+    "created": 1738105924305
+  },
+  {
+    "id": "4876985261883392",
+    "name": "TSan, depends, gui",
+    "duration": 1844,
+    "created": 1738105924305
+  },
+  {
+    "id": "6002885168726016",
+    "name": "MSan, depends",
+    "duration": 1078,
+    "created": 1738105924305
+  },
+  {
+    "id": "5439935215304704",
+    "name": "fuzzer,address,undefined,integer, no depends",
+    "duration": 3321,
+    "created": 1738105924305
+  },
+  {
+    "id": "6565835122147328",
+    "name": "multiprocess, i686, DEBUG",
+    "duration": 1330,
+    "created": 1738105924305
+  },
+  {
+    "id": "4736247773528064",
+    "name": "no wallet, libbitcoinkernel",
+    "duration": 330,
+    "created": 1738105924305
+  },
+  {
+    "id": "5862147680370688",
+    "name": "macOS-cross, gui, no tests",
+    "duration": 84,
+    "created": 1738105924305
   }
 ]
