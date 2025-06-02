@@ -513093,5 +513093,49 @@
     "buildDuration": 105,
     "ccacheHitrate": 96.13,
     "created": 1748781352388
+  },
+  {
+    "id": "5116024879579136",
+    "name": "previous releases, depends DEBUG",
+    "duration": 701,
+    "scheduleDuration": 6205,
+    "unitTestDuration": -1,
+    "functionalTestDuration": 323,
+    "buildDuration": 220,
+    "ccacheHitrate": -1,
+    "created": 1748797282022
+  },
+  {
+    "id": "6209103887859712",
+    "name": "previous releases, depends DEBUG",
+    "duration": 517,
+    "scheduleDuration": 1964,
+    "unitTestDuration": -1,
+    "functionalTestDuration": 324,
+    "buildDuration": 37,
+    "ccacheHitrate": -1,
+    "created": 1748800285013
+  },
+  {
+    "id": "6621722033520640",
+    "name": "previous releases, depends DEBUG",
+    "duration": 1036,
+    "scheduleDuration": 7961,
+    "unitTestDuration": -1,
+    "functionalTestDuration": 322,
+    "buildDuration": 42,
+    "ccacheHitrate": -1,
+    "created": 1748819805356
+  },
+  {
+    "id": "4689807055519744",
+    "name": "previous releases, depends DEBUG",
+    "duration": 540,
+    "scheduleDuration": 3568,
+    "unitTestDuration": -1,
+    "functionalTestDuration": 341,
+    "buildDuration": 37,
+    "ccacheHitrate": -1,
+    "created": 1748831818605
   }
 ]
