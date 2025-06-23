@@ -571459,5 +571459,170 @@
     "buildDuration": 38,
     "ccacheHitrate": -1,
     "created": 1750595674917
+  },
+  {
+    "id": "4935631521972224",
+    "name": "tidy",
+    "duration": 1290,
+    "scheduleDuration": 1545,
+    "unitTestDuration": -1,
+    "functionalTestDuration": -1,
+    "buildDuration": 0,
+    "ccacheHitrate": 99.73,
+    "created": 1750607691043
+  },
+  {
+    "id": "5726493109649408",
+    "name": "previous releases, depends DEBUG",
+    "duration": 536,
+    "scheduleDuration": 1256,
+    "unitTestDuration": -1,
+    "functionalTestDuration": 327,
+    "buildDuration": 39,
+    "ccacheHitrate": -1,
+    "created": 1750607691574
+  },
+  {
+    "id": "5266101069676544",
+    "name": "ARM, unit tests, no functional tests",
+    "duration": 262,
+    "scheduleDuration": 2427,
+    "unitTestDuration": 147,
+    "functionalTestDuration": -1,
+    "buildDuration": 56,
+    "ccacheHitrate": 99.86,
+    "created": 1750628766700
+  },
+  {
+    "id": "6392000976519168",
+    "name": "CentOS, depends, gui",
+    "duration": 835,
+    "scheduleDuration": 6868,
+    "unitTestDuration": 195,
+    "functionalTestDuration": 471,
+    "buildDuration": 84,
+    "ccacheHitrate": 98.1,
+    "created": 1750628766700
+  },
+  {
+    "id": "4984626092965888",
+    "name": "previous releases, depends DEBUG",
+    "duration": 640,
+    "scheduleDuration": 4145,
+    "unitTestDuration": -1,
+    "functionalTestDuration": 344,
+    "buildDuration": 104,
+    "ccacheHitrate": -1,
+    "created": 1750628766700
+  },
+  {
+    "id": "6110525999808512",
+    "name": "TSan, depends, gui",
+    "duration": 1438,
+    "scheduleDuration": 2360,
+    "unitTestDuration": 772,
+    "functionalTestDuration": 570,
+    "buildDuration": 25,
+    "ccacheHitrate": 99.68,
+    "created": 1750628766700
+  },
+  {
+    "id": "5547576046387200",
+    "name": "MSan, depends",
+    "duration": 1670,
+    "scheduleDuration": 6310,
+    "unitTestDuration": 364,
+    "functionalTestDuration": 575,
+    "buildDuration": 603,
+    "ccacheHitrate": 84.63,
+    "created": 1750628766700
+  },
+  {
+    "id": "6673475953229824",
+    "name": "fuzzer,address,undefined,integer, no depends",
+    "duration": 3065,
+    "scheduleDuration": 5063,
+    "unitTestDuration": -1,
+    "functionalTestDuration": -1,
+    "buildDuration": 17,
+    "ccacheHitrate": 99.89,
+    "created": 1750628766700
+  },
+  {
+    "id": "4632782372077568",
+    "name": "multiprocess, i686, DEBUG",
+    "duration": 1169,
+    "scheduleDuration": 3217,
+    "unitTestDuration": 296,
+    "functionalTestDuration": 721,
+    "buildDuration": 53,
+    "ccacheHitrate": 99.89,
+    "created": 1750628766700
+  },
+  {
+    "id": "4941899825414144",
+    "name": "ARM, unit tests, no functional tests",
+    "duration": 262,
+    "scheduleDuration": 8606,
+    "unitTestDuration": 149,
+    "functionalTestDuration": -1,
+    "buildDuration": 56,
+    "ccacheHitrate": 99.73,
+    "created": 1750635447794
+  },
+  {
+    "id": "6067799732256768",
+    "name": "CentOS, depends, gui",
+    "duration": 804,
+    "scheduleDuration": 2874,
+    "unitTestDuration": 168,
+    "functionalTestDuration": 466,
+    "buildDuration": 94,
+    "ccacheHitrate": 99.72,
+    "created": 1750635447794
+  },
+  {
+    "id": "5153006057947136",
+    "name": "multiprocess, i686, DEBUG",
+    "duration": 1111,
+    "scheduleDuration": 5996,
+    "unitTestDuration": 260,
+    "functionalTestDuration": 697,
+    "buildDuration": 59,
+    "ccacheHitrate": 99.68,
+    "created": 1750635447794
+  },
+  {
+    "id": "6278905964789760",
+    "name": "no wallet, libbitcoinkernel",
+    "duration": 401,
+    "scheduleDuration": 9582,
+    "unitTestDuration": 59,
+    "functionalTestDuration": 211,
+    "buildDuration": 52,
+    "ccacheHitrate": 99.72,
+    "created": 1750635447794
+  },
+  {
+    "id": "4871531081236480",
+    "name": "macOS-cross, gui, no tests",
+    "duration": 125,
+    "scheduleDuration": 9917,
+    "unitTestDuration": -1,
+    "functionalTestDuration": -1,
+    "buildDuration": 51,
+    "ccacheHitrate": 99.72,
+    "created": 1750635447794
+  },
+  {
+    "id": "6329785019793408",
+    "name": "tidy",
+    "duration": 1502,
+    "scheduleDuration": 2964,
+    "unitTestDuration": -1,
+    "functionalTestDuration": -1,
+    "buildDuration": 0,
+    "ccacheHitrate": 17.9,
+    "created": 1750641938429
   }
 ]
