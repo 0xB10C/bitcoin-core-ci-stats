@@ -631519,5 +631519,170 @@
     "buildDuration": 441,
     "ccacheHitrate": 62.8,
     "created": 1752337302105
+  },
+  {
+    "id": "6543930210123776",
+    "name": "tidy",
+    "duration": 1821,
+    "scheduleDuration": 3992,
+    "unitTestDuration": -1,
+    "functionalTestDuration": -1,
+    "buildDuration": 1,
+    "ccacheHitrate": 99.72,
+    "created": 1752379818530
+  },
+  {
+    "id": "4714342861504512",
+    "name": "ARM, unit tests, no functional tests",
+    "duration": 252,
+    "scheduleDuration": 6610,
+    "unitTestDuration": 148,
+    "functionalTestDuration": -1,
+    "buildDuration": 58,
+    "ccacheHitrate": 99.86,
+    "created": 1752379818530
+  },
+  {
+    "id": "5277292814925824",
+    "name": "previous releases, depends DEBUG",
+    "duration": 599,
+    "scheduleDuration": 1611,
+    "unitTestDuration": -1,
+    "functionalTestDuration": 337,
+    "buildDuration": 83,
+    "ccacheHitrate": -1,
+    "created": 1752379818531
+  },
+  {
+    "id": "5558767791636480",
+    "name": "multiprocess, i686, DEBUG",
+    "duration": 1315,
+    "scheduleDuration": 8459,
+    "unitTestDuration": 360,
+    "functionalTestDuration": 827,
+    "buildDuration": 47,
+    "ccacheHitrate": 100.0,
+    "created": 1752379818531
+  },
+  {
+    "id": "4643974117326848",
+    "name": "macOS-cross, gui, no tests",
+    "duration": 96,
+    "scheduleDuration": 9295,
+    "unitTestDuration": -1,
+    "functionalTestDuration": -1,
+    "buildDuration": 32,
+    "ccacheHitrate": 99.85,
+    "created": 1752379818531
+  },
+  {
+    "id": "4782068858617856",
+    "name": "previous releases, depends DEBUG",
+    "duration": 519,
+    "scheduleDuration": 1440,
+    "unitTestDuration": -1,
+    "functionalTestDuration": 319,
+    "buildDuration": 37,
+    "ccacheHitrate": -1,
+    "created": 1752386520423
+  },
+  {
+    "id": "5841305806307328",
+    "name": "tidy",
+    "duration": 1233,
+    "scheduleDuration": 1799,
+    "unitTestDuration": -1,
+    "functionalTestDuration": -1,
+    "buildDuration": 0,
+    "ccacheHitrate": 99.19,
+    "created": 1752400038106
+  },
+  {
+    "id": "5401743787294720",
+    "name": "previous releases, depends DEBUG",
+    "duration": 534,
+    "scheduleDuration": 2558,
+    "unitTestDuration": -1,
+    "functionalTestDuration": 321,
+    "buildDuration": 48,
+    "ccacheHitrate": -1,
+    "created": 1752400038601
+  },
+  {
+    "id": "4956731756773376",
+    "name": "tidy",
+    "duration": 1365,
+    "scheduleDuration": 2702,
+    "unitTestDuration": -1,
+    "functionalTestDuration": -1,
+    "buildDuration": 0,
+    "ccacheHitrate": 70.83,
+    "created": 1752407547651
+  },
+  {
+    "id": "6209392187539456",
+    "name": "previous releases, depends DEBUG",
+    "duration": 754,
+    "scheduleDuration": 1305,
+    "unitTestDuration": -1,
+    "functionalTestDuration": 337,
+    "buildDuration": 260,
+    "ccacheHitrate": -1,
+    "created": 1752407548173
+  },
+  {
+    "id": "5388233430794240",
+    "name": "previous releases, depends DEBUG",
+    "duration": 724,
+    "scheduleDuration": 9443,
+    "unitTestDuration": -1,
+    "functionalTestDuration": 353,
+    "buildDuration": 147,
+    "ccacheHitrate": -1,
+    "created": 1752416841681
+  },
+  {
+    "id": "6514133337636864",
+    "name": "TSan, depends, gui",
+    "duration": 2038,
+    "scheduleDuration": 8719,
+    "unitTestDuration": 1055,
+    "functionalTestDuration": 837,
+    "buildDuration": 74,
+    "ccacheHitrate": -1,
+    "created": 1752416841681
+  },
+  {
+    "id": "5247495942438912",
+    "name": "multiprocess, i686, DEBUG",
+    "duration": 1812,
+    "scheduleDuration": 8539,
+    "unitTestDuration": 504,
+    "functionalTestDuration": 1070,
+    "buildDuration": 120,
+    "ccacheHitrate": 97.7,
+    "created": 1752416841681
+  },
+  {
+    "id": "6373395849281536",
+    "name": "no wallet, libbitcoinkernel",
+    "duration": 414,
+    "scheduleDuration": 9970,
+    "unitTestDuration": 84,
+    "functionalTestDuration": 212,
+    "buildDuration": 37,
+    "ccacheHitrate": 98.18,
+    "created": 1752416841681
+  },
+  {
+    "id": "5313257260449792",
+    "name": "previous releases, depends DEBUG",
+    "duration": 806,
+    "scheduleDuration": 3488,
+    "unitTestDuration": -1,
+    "functionalTestDuration": 324,
+    "buildDuration": 332,
+    "ccacheHitrate": -1,
+    "created": 1752418061551
   }
 ]
