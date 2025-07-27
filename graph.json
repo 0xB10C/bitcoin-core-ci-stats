@@ -677895,5 +677895,27 @@
     "buildDuration": 275,
     "ccacheHitrate": -1,
     "created": 1753581539785
+  },
+  {
+    "id": "5960588288851968",
+    "name": "tidy",
+    "duration": 1279,
+    "scheduleDuration": 2132,
+    "unitTestDuration": -1,
+    "functionalTestDuration": -1,
+    "buildDuration": 0,
+    "ccacheHitrate": 91.16,
+    "created": 1753608580103
+  },
+  {
+    "id": "5876248284495872",
+    "name": "previous releases, depends DEBUG",
+    "duration": 645,
+    "scheduleDuration": 1553,
+    "unitTestDuration": -1,
+    "functionalTestDuration": 344,
+    "buildDuration": 143,
+    "ccacheHitrate": -1,
+    "created": 1753608580699
   }
 ]
