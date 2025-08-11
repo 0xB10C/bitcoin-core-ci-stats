@@ -718452,5 +718452,115 @@
     "buildDuration": 464,
     "ccacheHitrate": 48.77,
     "created": 1754778266611
+  },
+  {
+    "id": "6395513601261568",
+    "name": "tidy",
+    "duration": 1655,
+    "scheduleDuration": 2415,
+    "unitTestDuration": -1,
+    "functionalTestDuration": -1,
+    "buildDuration": 1,
+    "ccacheHitrate": 82.44,
+    "created": 1754853324445
+  },
+  {
+    "id": "4988138717708288",
+    "name": "ARM, unit tests, no functional tests",
+    "duration": 468,
+    "scheduleDuration": 2915,
+    "unitTestDuration": 150,
+    "functionalTestDuration": -1,
+    "buildDuration": 275,
+    "ccacheHitrate": 84.96,
+    "created": 1754853324446
+  },
+  {
+    "id": "6114038624550912",
+    "name": "CentOS, depends, gui",
+    "duration": 1042,
+    "scheduleDuration": 2940,
+    "unitTestDuration": 181,
+    "functionalTestDuration": 442,
+    "buildDuration": 330,
+    "ccacheHitrate": 86.67,
+    "created": 1754853324446
+  },
+  {
+    "id": "5551088671129600",
+    "name": "previous releases, depends DEBUG",
+    "duration": 774,
+    "scheduleDuration": 2614,
+    "unitTestDuration": -1,
+    "functionalTestDuration": 337,
+    "buildDuration": 264,
+    "ccacheHitrate": -1,
+    "created": 1754853324446
+  },
+  {
+    "id": "6676988577972224",
+    "name": "TSan, depends, no gui",
+    "duration": 1433,
+    "scheduleDuration": 2879,
+    "unitTestDuration": 684,
+    "functionalTestDuration": 550,
+    "buildDuration": 147,
+    "ccacheHitrate": 80.56,
+    "created": 1754853324446
+  },
+  {
+    "id": "4636294996819968",
+    "name": "MSan, depends",
+    "duration": 1268,
+    "scheduleDuration": 4072,
+    "unitTestDuration": 446,
+    "functionalTestDuration": 553,
+    "buildDuration": 220,
+    "ccacheHitrate": 86.8,
+    "created": 1754853324446
+  },
+  {
+    "id": "5762194903662592",
+    "name": "fuzzer,address,undefined,integer, no depends",
+    "duration": 3475,
+    "scheduleDuration": 3231,
+    "unitTestDuration": -1,
+    "functionalTestDuration": -1,
+    "buildDuration": 185,
+    "ccacheHitrate": 82.4,
+    "created": 1754853324446
+  },
+  {
+    "id": "5199244950241280",
+    "name": "multiprocess, i686, DEBUG",
+    "duration": 1302,
+    "scheduleDuration": 3646,
+    "unitTestDuration": 307,
+    "functionalTestDuration": 687,
+    "buildDuration": 233,
+    "ccacheHitrate": 82.4,
+    "created": 1754853324446
+  },
+  {
+    "id": "6325144857083904",
+    "name": "no wallet, libbitcoinkernel",
+    "duration": 444,
+    "scheduleDuration": 9319,
+    "unitTestDuration": 71,
+    "functionalTestDuration": 211,
+    "buildDuration": 111,
+    "ccacheHitrate": 89.82,
+    "created": 1754853324447
+  },
+  {
+    "id": "4917769973530624",
+    "name": "macOS-cross, gui, no tests",
+    "duration": 277,
+    "scheduleDuration": 9285,
+    "unitTestDuration": -1,
+    "functionalTestDuration": -1,
+    "buildDuration": 227,
+    "ccacheHitrate": 87.48,
+    "created": 1754853324447
   }
 ]
