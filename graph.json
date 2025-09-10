@@ -763794,5 +763794,27 @@
     "buildDuration": 18,
     "ccacheHitrate": 99.72,
     "created": 1757409550680
+  },
+  {
+    "id": "6444124846424064",
+    "name": "MSan, depends",
+    "duration": 1825,
+    "scheduleDuration": 2519,
+    "unitTestDuration": 345,
+    "functionalTestDuration": 537,
+    "buildDuration": 465,
+    "ccacheHitrate": -1,
+    "created": 1757491992931
+  },
+  {
+    "id": "4847197352624128",
+    "name": "TSan, depends, no gui",
+    "duration": 1860,
+    "scheduleDuration": 1794,
+    "unitTestDuration": 476,
+    "functionalTestDuration": 584,
+    "buildDuration": 367,
+    "ccacheHitrate": -1,
+    "created": 1757491993471
   }
 ]
