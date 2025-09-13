@@ -764146,5 +764146,38 @@
     "buildDuration": 60,
     "ccacheHitrate": 99.19,
     "created": 1757688310668
+  },
+  {
+    "id": "4656830242095104",
+    "name": "TSan, depends, no gui",
+    "duration": 3734,
+    "scheduleDuration": 7984,
+    "unitTestDuration": 476,
+    "functionalTestDuration": 577,
+    "buildDuration": 41,
+    "ccacheHitrate": 99.1,
+    "created": 1757688310668
+  },
+  {
+    "id": "5782730148937728",
+    "name": "MSan, depends",
+    "duration": 3566,
+    "scheduleDuration": 6546,
+    "unitTestDuration": 346,
+    "functionalTestDuration": 534,
+    "buildDuration": 54,
+    "ccacheHitrate": 99.09,
+    "created": 1757688310668
+  },
+  {
+    "id": "5219780195516416",
+    "name": "fuzzer,address,undefined,integer, no depends",
+    "duration": 2657,
+    "scheduleDuration": 6345,
+    "unitTestDuration": -1,
+    "functionalTestDuration": -1,
+    "buildDuration": 86,
+    "ccacheHitrate": 99.1,
+    "created": 1757688310668
   }
 ]
