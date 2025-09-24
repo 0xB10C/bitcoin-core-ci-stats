@@ -765290,5 +765290,49 @@
     "buildDuration": -1,
     "ccacheHitrate": -1,
     "created": 1758639323405
+  },
+  {
+    "id": "4708756732248064",
+    "name": "Win64, unit tests, no gui tests, no functional tests",
+    "duration": 2596,
+    "scheduleDuration": 3247,
+    "unitTestDuration": -1,
+    "functionalTestDuration": -1,
+    "buildDuration": -1,
+    "ccacheHitrate": -1,
+    "created": 1758639323405
+  },
+  {
+    "id": "6397606592512000",
+    "name": "TSan, depends, gui",
+    "duration": 2689,
+    "scheduleDuration": 3191,
+    "unitTestDuration": -1,
+    "functionalTestDuration": -1,
+    "buildDuration": -1,
+    "ccacheHitrate": -1,
+    "created": 1758639323405
+  },
+  {
+    "id": "4990231708958720",
+    "name": "MSan, depends",
+    "duration": 3125,
+    "scheduleDuration": 4706,
+    "unitTestDuration": -1,
+    "functionalTestDuration": -1,
+    "buildDuration": -1,
+    "ccacheHitrate": -1,
+    "created": 1758639323405
+  },
+  {
+    "id": "5553181662380032",
+    "name": "multiprocess, i686, DEBUG",
+    "duration": 2146,
+    "scheduleDuration": 4460,
+    "unitTestDuration": -1,
+    "functionalTestDuration": -1,
+    "buildDuration": -1,
+    "ccacheHitrate": -1,
+    "created": 1758639323405
   }
 ]
